@@ -52,13 +52,6 @@ A full-stack e-commerce project developed as part of a team.
 
 **Tech:** React • PHP • MySQL
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesakhoyat-og&show_icons=true&theme=dark" />
-</p>
-
 ### 🔐 Security Log Analyzer
 A Python-based cybersecurity project that analyzes authentication logs
 and detects suspicious login activity.
@@ -66,5 +59,11 @@ and detects suspicious login activity.
 **Tech:** Python • Log Analysis • Cybersecurity
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thesakhoyat-og&show_icons=true&theme=dark" />
+</p>
 
 
