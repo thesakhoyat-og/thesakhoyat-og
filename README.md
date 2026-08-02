@@ -60,10 +60,9 @@ and detects suspicious login activity.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesakhoyat-og&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com/?user=thesakhoyat-og&theme=github-dark" alt="GitHub Streak" />
 </p>
-
 
