@@ -60,16 +60,4 @@ and detects suspicious login activity.
 
 ---
 
-## 🎯 Currently Learning
-
-```text
-
-AI & APIs
-  ↓
-Cybersecurity Fundamentals
-  ↓
-SOC & Detection Engineering
-  ↓
-Security Automation
-
 
