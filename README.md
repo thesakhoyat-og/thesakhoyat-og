@@ -66,3 +66,19 @@ and detects suspicious login activity.
   <img src="https://streak-stats.demolab.com/?user=thesakhoyat-og&theme=github-dark" alt="GitHub Streak" />
 </p>
 
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://github.com/thesakhoyat-og">
+    <img src="https://img.shields.io/badge/GitHub-thesakhoyat--og-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
