@@ -63,7 +63,7 @@ and detects suspicious login activity.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesakhoyat-og&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thesakhoyat-og&show_icons=true&theme=github_dark" />
 </p>
 
 
