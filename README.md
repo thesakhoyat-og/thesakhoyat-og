@@ -62,9 +62,7 @@ and detects suspicious login activity.
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thesakhoyat-og&theme=github-dark&cache_seconds=1" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=thesakhoyat-og&theme=github-dark)
 
 ## 📫 Contact Me
 
