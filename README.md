@@ -13,7 +13,6 @@ why the code worked five minutes ago. 😭
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Science student
-- 🐍 Currently improving my Python skills
 - 🤖 Interested in Artificial Intelligence
 - 🔐 Working toward Cybersecurity
 - 🌱 Always learning something new
