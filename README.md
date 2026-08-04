@@ -60,6 +60,8 @@ and detects suspicious login activity.
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhoyat21&label=Profile%20views&color=0e75b6&style=flat" alt="sakhoyat21" /> </p>
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=thesakhoyat-og&theme=github-dark)
