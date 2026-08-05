@@ -55,7 +55,7 @@ A full-stack e-commerce project developed as part of a team.
 A Python-based cybersecurity project that analyzes authentication logs
 and detects suspicious login activity.
 
-
+**Tech:** Python • Log Analysis • Cybersecurity
 
 ---
 
