@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakhoyat </h1>
-<h3 align="center"> Python Developer | Future Cybersecurity Specialist</h3>
+
 
 
 <br>
